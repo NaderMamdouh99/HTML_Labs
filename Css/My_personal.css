@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+#Photo{
+    width: 30%;
+    float: right;
+}
+ul{
+    float: left;
+}
+#About{
+    clear: both;
+}
+#link{
+    text-align: center;
+}
